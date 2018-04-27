@@ -1,0 +1,12 @@
+.my-sider {
+    position: absolute;
+    width: 250px;
+    right: 0px;
+    /* could transition to -250px; */
+
+    transition: right 0.5s;
+}
+.sider-card {
+    height: 100%;
+    overflow: scroll;
+}

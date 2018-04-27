@@ -1,0 +1,12 @@
+.filepane .config-card {
+    width: 15%;
+    height: 185px;
+    float: left;
+    margin-right: 1%;
+}
+.filepane .file-card {
+    width: 83%;
+    height: 185px;
+    float: left;
+    padding: 5px;
+}

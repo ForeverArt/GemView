@@ -1,0 +1,46 @@
+.main {
+    min-width: 1440px;
+}
+
+#render-canvas {
+    width: 100%;
+}
+
+.cameraMonitor {
+    position: relative;
+}
+
+.monitor {
+    width: 250px;
+    height: 180px;
+    position: absolute;
+    background-color: white;
+    cursor: pointer;
+
+    transition: height 0.4s;
+}
+
+.monitor canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.monitor_0 {
+    left: 0;
+    top: 50px;
+}
+
+.monitor_1 {
+    left: 250px;
+    top: 50px;
+}
+
+.monitor_2 {
+    left: 500px;
+    top: 50px;
+}
+
+.monitor_3 {
+    left: 750px;
+    top: 50px;
+}

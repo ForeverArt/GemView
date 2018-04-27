@@ -1,0 +1,21 @@
+.selfSwitch {
+    margin: 0 auto;
+    margin-left: 10px;
+}
+.play-slider {
+    width: 650px;
+    margin-top: 23px;
+    margin-left: 5px;
+}
+.pt-slider-axis .pt-slider-label {
+    display: none;
+}
+
+.pt-slider-handle .pt-slider-label {
+    display: none;
+}
+
+.slider-input {
+    width: 40px;
+    height: 30px;
+}

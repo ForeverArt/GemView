@@ -1,0 +1,60 @@
+.ichart {
+    width: 90%;
+    min-width: 1080px;
+    height: 700px;
+}
+
+.interactiveSvg {
+    height: 660px;
+    width: 100%;
+}
+
+.interactiveSvg .content {
+    height: 91%;
+    width: 100%;
+}
+
+.interactiveSvg .content .chartArea {
+    height: 96%;
+    width: 77%;
+    float: left;
+    padding: 0;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+
+.interactiveSvg .content .chartArea svg {
+    height: 100%;
+    width: 100%;
+}
+
+.interactiveSvg .content .dataArea {
+    height: 100%;
+    width: 21%;
+    float: right;
+}
+
+.interactiveSvg .content .dataArea .card {
+    width: 80%;
+    height: 132px;
+    margin-left: 9%;
+    margin-top: 15.5px;
+}
+
+.interactiveSvg .content .dataArea .card .data {
+    line-height: 62px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.interactiveSvg .footer {
+    margin-top: 0.5%;
+    height: 8.5%;
+    width: 100%;
+    bottom: 0px;
+}
+
+.interactiveSvg .footer .controlBar {
+    height: 100%;
+    width: 100%;
+}

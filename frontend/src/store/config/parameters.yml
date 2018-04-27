@@ -1,0 +1,23 @@
+defaults:
+    pad:
+        showPad: false
+        filepane:
+            showHandle: false
+    sider:
+        showSider: false
+    interactiveChart:
+        isOpen: false
+    monitorView:
+        isOpen: false
+    monitor:
+        toggle: true
+websocket:
+    protocal: "ws"
+    host: "10.0.169.123"
+    port: 8080
+    play_mode:
+        offline: "OfflineData"
+        active: "ActiveData"
+play:
+    default_fps: 10
+    playing: false
